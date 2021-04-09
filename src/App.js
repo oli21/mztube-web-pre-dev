@@ -3,7 +3,7 @@ import './App.css';
 import Header from "./components/Header"
 import SignUp from "./components/SignUp"
 import CourseList from './components/courseList/CourseList';
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 function App() {
   return (
